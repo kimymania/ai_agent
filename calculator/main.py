@@ -1,4 +1,5 @@
 import sys
+
 from pkg.calculator import Calculator
 from pkg.render import render
 
@@ -22,4 +23,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
